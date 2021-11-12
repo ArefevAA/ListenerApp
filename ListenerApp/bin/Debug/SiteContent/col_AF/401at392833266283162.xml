@@ -1,0 +1,3072 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OAI-PMH xmlns='http://www.openarchives.org/OAI/2.0/'
+	xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+	xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/
+	http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd'>
+<responseDate>ResponseDateValue</responseDate>
+<request verb='ListRecords' resumptionToken='401at392833266283162' >https://library.waverley.nsw.gov.au/libero/OAIPMH.cls</request>
+<ListRecords>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:500430</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>A forest of eagles /</dc:title>
+<dc:creator>Follett, James,1939-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sutton, Surrey : Severn House,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>War.</dc:subject>
+<dc:subject>World War, 1939-1945</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=500430</dc:identifier>
+<dc:identifier>URN:ISBN:0727860623</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:500431</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Unexpected blessings /</dc:title>
+<dc:creator>Bradford, Barbara Taylor,1933-</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>Love stories.</dc:type>
+<dc:publisher>London : HarperCollins,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=500431</dc:identifier>
+<dc:identifier>URN:ISBN:0007134347</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:500633</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The collected stories</dc:title>
+<dc:creator>Shields, Carol.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Fourth Estate,</dc:publisher>
+<dc:date>2004 .</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Short stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=500633</dc:identifier>
+<dc:identifier>URN:ISBN:0007192053</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:500883</identifier>
+			<datestamp>2008-11-23</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Monday mourning /</dc:title>
+<dc:creator>Reichs, Kathy.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : William Heinemann,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Brennan, Temperance (Fictitious character)</dc:subject>
+<dc:subject>Women forensic anthropologists</dc:subject>
+<dc:subject>Pizza industry</dc:subject>
+<dc:subject>Restaurants</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=500883</dc:identifier>
+<dc:identifier>URN:ISBN:0434010383</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:500898</identifier>
+			<datestamp>2011-04-08</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Birds without wings /</dc:title>
+<dc:creator>De Bernières, Louis.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Secker &amp; Warburg,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Maps on end papers.</dc:description>
+<dc:subject>World War, 1914-1918</dc:subject>
+<dc:subject>Islam</dc:subject>
+<dc:subject>City and town life</dc:subject>
+<dc:subject>Fathers and sons</dc:subject>
+<dc:subject>Soldiers</dc:subject>
+<dc:subject>Historical fiction.</dc:subject>
+<dc:subject>War stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=500898</dc:identifier>
+<dc:identifier>URN:ISBN:0436205491</dc:identifier>
+<dc:identifier>URN:ISBN:9780436205491</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:501251</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Intricate liaisons /</dc:title>
+<dc:creator>Oldfield, Pamela, $d1934-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sutton, Surrey : Severn House,</dc:publisher>
+<dc:date>2004 .</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Young women</dc:subject>
+<dc:subject>Love stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=501251</dc:identifier>
+<dc:identifier>URN:ISBN:0727860917</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:501768</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Robert Ludlum's Jason Bourne in The Bourne legacy /</dc:title>
+<dc:creator>Lustbader, Eric Van.</dc:creator>
+<dc:creator>Ludlum, Robert,1927-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Orion,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Bourne, Jason (Fictitious character)</dc:subject>
+<dc:subject>Attempted assassination</dc:subject>
+<dc:subject>Intelligence officers</dc:subject>
+<dc:subject>Undercover operations</dc:subject>
+<dc:subject>College teachers</dc:subject>
+<dc:subject>Assassins</dc:subject>
+<dc:subject>Spy stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=501768</dc:identifier>
+<dc:identifier>URN:ISBN:0752868209</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:501769</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Sam's letters to Jennifer /</dc:title>
+<dc:creator>Patterson, James,1947-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Headline,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Love stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=501769</dc:identifier>
+<dc:identifier>URN:ISBN:0755305736</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:501771</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Spiking the girl /</dc:title>
+<dc:creator>Lord, Gabrielle,1946-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sydney : Hodder,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Women private investigators</dc:subject>
+<dc:subject>Murder</dc:subject>
+<dc:subject>Westfield Literary Prize Nominations (2005)</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=501771</dc:identifier>
+<dc:identifier>URN:ISBN:0733616224</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:501936</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Constable around the park /</dc:title>
+<dc:creator>Rhea, Nicholas,1936-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Robert Hale,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Parish, Nick (Fictitious character)</dc:subject>
+<dc:subject>Aidensfield (England : Imaginary place)</dc:subject>
+<dc:subject>Police</dc:subject>
+<dc:subject>Country life</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=501936</dc:identifier>
+<dc:identifier>URN:ISBN:0709075707</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:502558</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Adam Bede /</dc:title>
+<dc:creator>Eliot, George,1819-1880.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Everyman's Library,</dc:publisher>
+<dc:date>c1992.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Bibliography: pxxii-xxiii.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=502558</dc:identifier>
+<dc:identifier>URN:ISBN:1857150597</dc:identifier>
+<dc:identifier>URN:ISBN:1857150597</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:502569</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Silas Marner : the weaver of Raveloe /</dc:title>
+<dc:creator>Eliot, George,1819-1880.</dc:creator>
+<dc:creator>Ashton, Rosemary,1947-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : David Campbell,</dc:publisher>
+<dc:date>c1993.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Bibliography: pxx-xxi.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=502569</dc:identifier>
+<dc:identifier>URN:ISBN:1857151410</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:502752</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Are you afraid of the dark? /</dc:title>
+<dc:creator>Sheldon, Sidney, 1917-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Harper Collins,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Romantic suspense fiction.</dc:subject>
+<dc:subject>Spy stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=502752</dc:identifier>
+<dc:identifier>URN:ISBN:0007165153</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:502754</identifier>
+			<datestamp>2011-06-29</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>In the company of cheerful ladies /</dc:title>
+<dc:creator>McCall Smith, Alexander,1948-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Edinburgh : Polygon</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Ramotswe, Precious (Fictitious character)</dc:subject>
+<dc:subject>Women private investigators</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=502754</dc:identifier>
+<dc:identifier>URN:ISBN:1904598064</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:503032</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The red queen : a transcultural tragicomedy /</dc:title>
+<dc:creator>Drabble, Margaret,1939-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Viking,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>British</dc:subject>
+<dc:subject>Princesses</dc:subject>
+<dc:subject>Women</dc:subject>
+<dc:subject>Loss (Psychology)</dc:subject>
+<dc:subject>Women</dc:subject>
+<dc:subject>Women scholars</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=503032</dc:identifier>
+<dc:identifier>URN:ISBN:0670915246</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:503043</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The depths of solitude /</dc:title>
+<dc:creator>Bannister, Jo.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Allison &amp; Busby,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Missing persons</dc:subject>
+<dc:subject>Women private investigators</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=503043</dc:identifier>
+<dc:identifier>URN:ISBN:0749006684</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:503643</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Keeper's gold /</dc:title>
+<dc:creator>Cook, Judith, 1933-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sutton, Surrey : Severn House,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Latymer, John (Fictitious character)</dc:subject>
+<dc:subject>Murder</dc:subject>
+<dc:subject>Ex-police officers</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=503643</dc:identifier>
+<dc:identifier>URN:ISBN:0727861301</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:503644</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Some assured /</dc:title>
+<dc:creator>Rhea, Nicholas, 1936-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sutton, Surrey : Severn House,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Insurance agents</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=503644</dc:identifier>
+<dc:identifier>URN:ISBN:0727861670</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:503645</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Unknown fears /</dc:title>
+<dc:creator>Gardner, John, 1926-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sutton, Surrey : Severn House,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Suspense fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=503645</dc:identifier>
+<dc:identifier>URN:ISBN:0727861344</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:504412</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Miss Ambar regrets /</dc:title>
+<dc:creator>Cleary, Jon,1917-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Pymble, N.S.W. : HarperCollins,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=504412</dc:identifier>
+<dc:identifier>URN:ISBN:0732276330</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:504502</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Shoulder the sky /</dc:title>
+<dc:creator>Perry, Anne.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Review,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>World War, 1914-1918</dc:subject>
+<dc:subject>World War, 1914-1918</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:subject>Historical fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=504502</dc:identifier>
+<dc:identifier>URN:ISBN:0755308603</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:504775</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Master and commander /</dc:title>
+<dc:creator>O'Brian, Patrick,1914-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : HarperCollins,</dc:publisher>
+<dc:date>2002</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Aubrey, Jack (Fictitious character)</dc:subject>
+<dc:subject>Maturin, Stephen (Fictitious character)</dc:subject>
+<dc:subject>Seafaring life</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=504775</dc:identifier>
+<dc:identifier>URN:ISBN:000715786X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:504878</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Glass mountain /</dc:title>
+<dc:creator>Koster, R. M., 1934-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>New York : Norton,</dc:publisher>
+<dc:date>c2001.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Vietnamese Conflict, 1961-1975</dc:subject>
+<dc:subject>Americans</dc:subject>
+<dc:subject>Children of presidents</dc:subject>
+<dc:subject>Undercover operations</dc:subject>
+<dc:subject>Kidnapping, Parental</dc:subject>
+<dc:subject>Hispanic Americans</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=504878</dc:identifier>
+<dc:identifier>URN:ISBN:039302007X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:504924</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Metro girl /</dc:title>
+<dc:creator>Evanovich, Janet.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : HarperCollins,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Missing persons</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=504924</dc:identifier>
+<dc:identifier>URN:ISBN:0007176228</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:504926</identifier>
+			<datestamp>2011-06-29</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The girl who married a lion and other tales from Africa /</dc:title>
+<dc:creator>McCall Smith, Alexander,1948-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Edinburgh : Canongate,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Ndebele (African people)</dc:subject>
+<dc:subject>Tswana (African people)</dc:subject>
+<dc:subject>Tales</dc:subject>
+<dc:subject>Tales</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=504926</dc:identifier>
+<dc:identifier>URN:ISBN:1841955302</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:504928</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Whiteout /</dc:title>
+<dc:creator>Follett, Ken, 1949-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Macmillan,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Pharmaceutical industry</dc:subject>
+<dc:subject>Animal rights activists</dc:subject>
+<dc:subject>Security consultants</dc:subject>
+<dc:subject>Hazardous substances</dc:subject>
+<dc:subject>Ex-police officers</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=504928</dc:identifier>
+<dc:identifier>URN:ISBN:1405047054</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:505105</identifier>
+			<datestamp>2007-09-14</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Death in holy orders /</dc:title>
+<dc:creator>James, P. D.,1920-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>New York : Knopf :</dc:publisher>
+<dc:date>2001.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Dalgliesh, Adam (Fictitious character)</dc:subject>
+<dc:subject>Police</dc:subject>
+<dc:subject>Theological seminaries</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>http://www.loc.gov/catdir/description/random0414/2001088108.html</dc:identifier>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=505105</dc:identifier>
+<dc:identifier>URN:ISBN:0375412557</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:505176</identifier>
+			<datestamp>2011-08-15</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Echoes /</dc:title>
+<dc:creator>Steel, Danielle,1948-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Bantam,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>World War, 1939-1945</dc:subject>
+<dc:subject>World War, 1939-1945</dc:subject>
+<dc:subject>World War, 1939-1945</dc:subject>
+<dc:subject>Concentration camp inmates</dc:subject>
+<dc:subject>Concentration camp escapes</dc:subject>
+<dc:subject>Women</dc:subject>
+<dc:subject>Nuns</dc:subject>
+<dc:subject>Historical fiction.</dc:subject>
+<dc:subject>War stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=505176</dc:identifier>
+<dc:identifier>URN:ISBN:0593050193</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:505178</identifier>
+			<datestamp>2011-06-27</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>col_SF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Angel Puss /</dc:title>
+<dc:creator>McCullough, Colleen,1937-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Pymble, N.S.W. : HarperCollins,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=505178</dc:identifier>
+<dc:identifier>URN:ISBN:073228158X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:505363</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Retreat from murder /</dc:title>
+<dc:creator>Babson, Marian.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Constable,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=505363</dc:identifier>
+<dc:identifier>URN:ISBN:184119901X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:505683</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Monday or Tuesday /</dc:title>
+<dc:creator>Woolf, Virginia,1882-1941.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Hesperus,</dc:publisher>
+<dc:date>2003.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Short stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=505683</dc:identifier>
+<dc:identifier>URN:ISBN:1843910594</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:506029</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>I'm a stranger here myself /</dc:title>
+<dc:creator>Stubbs, Jean,1926-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Surrey : Severn House,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Friendship</dc:subject>
+<dc:subject>Businesswomen</dc:subject>
+<dc:subject>Sagas.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=506029</dc:identifier>
+<dc:identifier>URN:ISBN:0727861727</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:506125</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Falling awake /</dc:title>
+<dc:creator>Krentz, Jayne Ann.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Piatkus,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Dreams</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=506125</dc:identifier>
+<dc:identifier>URN:ISBN:0749907088</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:506130</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>col_SF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Rumpole and the Penge Bungalow murders /</dc:title>
+<dc:creator>Mortimer, John, 1923-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Viking,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Rumpole, Horace (Fictitious character)</dc:subject>
+<dc:subject>Attorney and client</dc:subject>
+<dc:subject>Trials (Murder)</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:subject>Legal stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=506130</dc:identifier>
+<dc:identifier>URN:ISBN:067091522X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:506236</identifier>
+			<datestamp>2011-04-15</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Robert Ludlum's The Lazarus vendetta : a covert-one novel /</dc:title>
+<dc:creator>Ludlum, Robert,1927-</dc:creator>
+<dc:creator>Larkin, Patrick.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Orion,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Anti-globalization movement</dc:subject>
+<dc:subject>Intelligence officers</dc:subject>
+<dc:subject>Undercover operations</dc:subject>
+<dc:subject>Nanotechnology</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=506236</dc:identifier>
+<dc:identifier>URN:ISBN:0752857533</dc:identifier>
+<dc:identifier>URN:ISBN:9780752857534</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:506276</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Hunting fear /</dc:title>
+<dc:creator>Hooper, Kay.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>New York : Bantam Books,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Government investigators</dc:subject>
+<dc:subject>Serial murders</dc:subject>
+<dc:subject>Kidnapping</dc:subject>
+<dc:subject>Psychics</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>http://www.loc.gov/catdir/bios/random051/2004047613.html</dc:identifier>
+<dc:identifier>http://www.loc.gov/catdir/samples/random051/2004047613.html</dc:identifier>
+<dc:identifier>http://www.loc.gov/catdir/description/random051/2004047613.html</dc:identifier>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=506276</dc:identifier>
+<dc:identifier>URN:ISBN:0553803166</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:506444</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Blue dahlia /</dc:title>
+<dc:creator>Roberts, Nora.</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>Horror fiction.</dc:type>
+<dc:publisher>London : Piatkus,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Man-woman relationships.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=506444</dc:identifier>
+<dc:identifier>URN:ISBN:0749907142</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:506873</identifier>
+			<datestamp>2009-05-04</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Secrets of a family album /</dc:title>
+<dc:creator>Dewar, Isla.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Review,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Envy</dc:subject>
+<dc:subject>Relationships</dc:subject>
+<dc:subject>Family saga</dc:subject>
+<dc:subject>Sagas.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=506873</dc:identifier>
+<dc:identifier>URN:ISBN:0755300815</dc:identifier>
+<dc:identifier>URN:ISBN:9780755320141 (pbk)</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:506937</identifier>
+			<datestamp>2011-08-15</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The Christmas thief /</dc:title>
+<dc:creator>Clark, Mary Higgins,1931-</dc:creator>
+<dc:creator>Clark, Carol Higgins.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>New York : Simon &amp; Schuster,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Meehan, Alvirah (Fictitious character)</dc:subject>
+<dc:subject>Reilly, Regan (Fictitious character)</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=506937</dc:identifier>
+<dc:identifier>URN:ISBN:0743271556</dc:identifier>
+<dc:identifier>URN:ISBN:9780743271554</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:507635</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The broker /</dc:title>
+<dc:creator>Grisham, John.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Century,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>United States. Central Intelligence Agency.</dc:subject>
+<dc:subject>Government information.</dc:subject>
+<dc:subject>Spies.</dc:subject>
+<dc:subject>Pardon</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=507635</dc:identifier>
+<dc:identifier>URN:ISBN:1844131629</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:507861</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The broken gate /</dc:title>
+<dc:creator>Burgh, Anita,1937-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Orion,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=507861</dc:identifier>
+<dc:identifier>URN:ISBN:0752860704 1</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:507998</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Return of the eagles /</dc:title>
+<dc:creator>Follett, James,1939-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sutton, Surrey : Severn House,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Prisoner-of-war escapes</dc:subject>
+<dc:subject>War stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=507998</dc:identifier>
+<dc:identifier>URN:ISBN:0727861336</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:508005</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Invitation to Provence /</dc:title>
+<dc:creator>Adler, Elizabeth(Elizabeth A.)</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Hodder &amp; Stoughton,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Americans</dc:subject>
+<dc:subject>Family reunions</dc:subject>
+<dc:subject>Secrecy</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=508005</dc:identifier>
+<dc:identifier>URN:ISBN:0340830360</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:508415</identifier>
+			<datestamp>2014-08-19</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>col_SF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Saturday /</dc:title>
+<dc:creator>McEwan, Ian,1948-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Jonathan Cape,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Neuroscientists</dc:subject>
+<dc:subject>Middle-aged gay men</dc:subject>
+<dc:subject>Traffic accidents</dc:subject>
+<dc:subject>World politics</dc:subject>
+<dc:subject>Road rage</dc:subject>
+<dc:subject>Iraq War, 2003</dc:subject>
+<dc:subject>Family reunions</dc:subject>
+<dc:subject>Criminals</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=508415</dc:identifier>
+<dc:identifier>URN:ISBN:0224072994</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:508686</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Conflict of interest /</dc:title>
+<dc:creator>Armitage, Aileen.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sutton, Surrey : Severn House,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Woollen and worsted manufacture</dc:subject>
+<dc:subject>Historical fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=508686</dc:identifier>
+<dc:identifier>URN:ISBN:072786193X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:508705</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Last boat to Camden Town /</dc:title>
+<dc:creator>Charles, Paul.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>New York : St. Martin's Minotaur,</dc:publisher>
+<dc:date>2003.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Police</dc:subject>
+<dc:subject>Physicians</dc:subject>
+<dc:subject>Women journalists</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>http://www.loc.gov/catdir/description/hol041/2003058646.html</dc:identifier>
+<dc:identifier>http://www.loc.gov/catdir/bios/hol053/2003058646.html</dc:identifier>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=508705</dc:identifier>
+<dc:identifier>URN:ISBN:0312318723</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:509141</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Mind games /</dc:title>
+<dc:creator>Anthony, Evelyn,1928-</dc:creator>
+<dc:creator>Anthony, Evelyn,1928-Company of saints.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Surrey, Sutton : Severn House,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Terrorism.</dc:description>
+<dc:description>Originally published as: The company of saints. Great Britian : Hutchinson, 1983.</dc:description>
+<dc:description>Terrorism.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=509141</dc:identifier>
+<dc:identifier>URN:ISBN:0727861786</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:509179</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Death of Riley /</dc:title>
+<dc:creator>Bowen, Rhys.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>New York : St. Martin's Minotaur,</dc:publisher>
+<dc:date>2002.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Women private investigators</dc:subject>
+<dc:subject>Irish American women</dc:subject>
+<dc:subject>Women immigrants</dc:subject>
+<dc:subject>Historical fiction.</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>http://www.loc.gov/catdir/description/hol031/2002032470.html</dc:identifier>
+<dc:identifier>http://www.loc.gov/catdir/bios/hol052/2002032470.html</dc:identifier>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=509179</dc:identifier>
+<dc:identifier>URN:ISBN:0312282117</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:509192</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The cat who wasn't a dog /</dc:title>
+<dc:creator>Babson, Marian.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>New York : Thomas Dunne Books,</dc:publisher>
+<dc:date>2003.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Also published as : Not quite a geisha -- London : Constable, 2003 : ISBN = 1-84119-596-0</dc:description>
+<dc:subject>Women cat owners</dc:subject>
+<dc:subject>Actresses</dc:subject>
+<dc:subject>Widows</dc:subject>
+<dc:subject>Cats</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>http://www.loc.gov/catdir/description/hol041/2003050606.html</dc:identifier>
+<dc:identifier>http://www.loc.gov/catdir/bios/hol052/2003050606.html</dc:identifier>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=509192</dc:identifier>
+<dc:identifier>URN:ISBN:0312284977</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:509200</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Murder in the hearse degree /</dc:title>
+<dc:creator>Cockey, Tim.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>New York : Hyperion,</dc:publisher>
+<dc:date>c2003.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Sewell, Hitchcock (Fictitious character)</dc:subject>
+<dc:subject>Funeral rites and ceremonies</dc:subject>
+<dc:subject>Undertakers and undertaking</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=509200</dc:identifier>
+<dc:identifier>URN:ISBN:0786867124</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:509799</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Blood from a stone /</dc:title>
+<dc:creator>Leon, Donna.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : William Heinemann,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Brunetti, Guido (Fictitious character)</dc:subject>
+<dc:subject>Street vendors</dc:subject>
+<dc:subject>Police</dc:subject>
+<dc:subject>Africans</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=509799</dc:identifier>
+<dc:identifier>URN:ISBN:0434012998</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:509802</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Priceless /</dc:title>
+<dc:creator>Roberts, Nora.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Chatswood, N.S.W. : Harlequin Mills &amp; Boon,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Courting Catherine -- A man for Amanda -- For the love as Lilah -- Suzanna' surrender.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=509802</dc:identifier>
+<dc:identifier>URN:ISBN:073355606X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:509831</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>From a distance /</dc:title>
+<dc:creator>Cook, Gloria.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sutton, Surrey : Severn House,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Sequel to: Touch the silence and Moments of time.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=509831</dc:identifier>
+<dc:identifier>URN:ISBN:0727861549</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:509840</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Hettie of Hope Street /</dc:title>
+<dc:creator>Groves, Annie.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>HarperCollins,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=509840</dc:identifier>
+<dc:identifier>URN:ISBN:0007149581</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:509890</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>One Sunday morning /</dc:title>
+<dc:creator>Ephron, Amy.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>New York : William Morrow,</dc:publisher>
+<dc:date>c2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Female friendship</dc:subject>
+<dc:subject>Man-woman relationships</dc:subject>
+<dc:subject>Secrecy</dc:subject>
+<dc:subject>Historical fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=509890</dc:identifier>
+<dc:identifier>URN:ISBN:0060585528</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:509909</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Children of Eve /</dc:title>
+<dc:creator>Purcell, Deirdre.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Headline,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Mother and child</dc:subject>
+<dc:subject>Relationships</dc:subject>
+<dc:subject>Absentee mothers</dc:subject>
+<dc:subject>Sagas.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=509909</dc:identifier>
+<dc:identifier>URN:ISBN:075532479X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:509991</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The chapel of bones /</dc:title>
+<dc:creator>Jecks, Michael.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Headline,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Furnshill, Baldwin, Sir (Fictitious character)</dc:subject>
+<dc:subject>Puttock, Simon (Fictitious character)</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:subject>Historical fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=509991</dc:identifier>
+<dc:identifier>URN:ISBN:0755322959</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:510362</identifier>
+			<datestamp>2011-06-24</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>44 Scotland Street /</dc:title>
+<dc:creator>McCall Smith, Alexander,1948-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Edinburgh : Polygon,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Short stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=510362</dc:identifier>
+<dc:identifier>URN:ISBN:1904598161</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:510365</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Burned : a Regan Reilly mystery /</dc:title>
+<dc:creator>Clark, Carol Higgins.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>New York : Scribner,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Reilly, Regan (Fictitious character)</dc:subject>
+<dc:subject>Women private investigators</dc:subject>
+<dc:subject>Hotels</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=510365</dc:identifier>
+<dc:identifier>URN:ISBN:0743242750</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:510373</identifier>
+			<datestamp>2011-08-15</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Lost Lake /</dc:title>
+<dc:creator>Margolin, Phillip.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>New York : HarperCollins,</dc:publisher>
+<dc:date>c2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Journalists</dc:subject>
+<dc:subject>Official secrets</dc:subject>
+<dc:subject>Tabloid newspapers</dc:subject>
+<dc:subject>Presidential candidates</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=510373</dc:identifier>
+<dc:identifier>URN:ISBN:0060735023</dc:identifier>
+<dc:identifier>URN:ISBN:9780060735029</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:510448</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Turning leaves /</dc:title>
+<dc:creator>Oldfield, Pamela, 1934-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sutton, Surrey : Severn House,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Older people</dc:subject>
+<dc:subject>Communication in marriage</dc:subject>
+<dc:subject>Short stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=510448</dc:identifier>
+<dc:identifier>URN:ISBN:0727861581</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:510451</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Dead end /</dc:title>
+<dc:creator>Freemantle, Brian,1936-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sutton, Surrey : Severn House,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Genetics</dc:subject>
+<dc:subject>Corporations</dc:subject>
+<dc:subject>Human experimentation in medicine</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=510451</dc:identifier>
+<dc:identifier>URN:ISBN:0727861069</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:510618</identifier>
+			<datestamp>2019-04-05</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>col_SF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The triumph of the sun : A novel of african adventure /</dc:title>
+<dc:creator>Smith, Wilbur,1933-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Macmillan,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Map on endpapers.</dc:description>
+<dc:subject>British</dc:subject>
+<dc:subject>Businessmen</dc:subject>
+<dc:subject>Diplomats</dc:subject>
+<dc:subject>Soldiers</dc:subject>
+<dc:subject>Sieges</dc:subject>
+<dc:subject>Historical fiction.</dc:subject>
+<dc:subject>War stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=510618</dc:identifier>
+<dc:identifier>URN:ISBN:140500570X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:510950</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Breaking faith /</dc:title>
+<dc:creator>Bannister, Jo.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Allison &amp; Busby,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Farrell, Brodie (Fictitious character)</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=510950</dc:identifier>
+<dc:identifier>URN:ISBN:0749083387</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:510952</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Death of a chancellor : a murder mystery featuring Lord Francis Powerscourt/</dc:title>
+<dc:creator>Dickinson, David.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Constable,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Powerscourt, Francis, Lord (Fictitious character)</dc:subject>
+<dc:subject>Private investigators</dc:subject>
+<dc:subject>Historical fiction.</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=510952</dc:identifier>
+<dc:identifier>URN:ISBN:1841197785</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:511015</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Flashman on the march : from the Flashman papers, 1867-8 /</dc:title>
+<dc:creator>Fraser, George MacDonald,1925-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : HarperCollins,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Flashman, Harry Paget (Fictitious character)</dc:subject>
+<dc:subject>Political prisoners</dc:subject>
+<dc:subject>British</dc:subject>
+<dc:subject>Historical fiction.</dc:subject>
+<dc:subject>Adventure stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=511015</dc:identifier>
+<dc:identifier>URN:ISBN:000719739X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:511641</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>No place like home /</dc:title>
+<dc:creator>Clark, Mary Higgins.1931-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>New York : Simon &amp; Schuster,</dc:publisher>
+<dc:date>c2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Violence in children</dc:subject>
+<dc:subject>Mothers</dc:subject>
+<dc:subject>Home ownership</dc:subject>
+<dc:subject>Married women</dc:subject>
+<dc:subject>Abused wives</dc:subject>
+<dc:subject>Stepfathers</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=511641</dc:identifier>
+<dc:identifier>URN:ISBN:0743264894</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:512102</identifier>
+			<datestamp>2009-05-04</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>4th of July /</dc:title>
+<dc:creator>Patterson, James,1947-</dc:creator>
+<dc:creator>Paetro, Maxine.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Headline,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Policewomen</dc:subject>
+<dc:subject>Serial murders</dc:subject>
+<dc:subject>Police shootings</dc:subject>
+<dc:subject>Police</dc:subject>
+<dc:subject>Trials (Police misconduct)</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=512102</dc:identifier>
+<dc:identifier>URN:ISBN:0755305825 (pbk)</dc:identifier>
+<dc:identifier>URN:ISBN:9780755305810 (hbk)</dc:identifier>
+<dc:identifier>URN:ISBN:0755305817 (hbk)</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:512134</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Just rewards /</dc:title>
+<dc:creator>Bradford, Barbara Taylor,1933-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : HarperCollins,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Sisters</dc:subject>
+<dc:subject>Women</dc:subject>
+<dc:subject>Secrecy</dc:subject>
+<dc:subject>Family-owned business enterprises</dc:subject>
+<dc:subject>Love stories.</dc:subject>
+<dc:subject>Sagas.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=512134</dc:identifier>
+<dc:identifier>URN:ISBN:0007197608</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:512243</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>China Lake /</dc:title>
+<dc:creator>Gardiner, Meg.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Hodder &amp; Stoughton,</dc:publisher>
+<dc:date>2002.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Cults</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=512243</dc:identifier>
+<dc:identifier>URN:ISBN:0340822473</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:512745</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_SF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The stranger house /</dc:title>
+<dc:creator>Hill, Reginald,1936-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : HarperCollins Publishers,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Australians</dc:subject>
+<dc:subject>Spaniards</dc:subject>
+<dc:subject>Immigrant children</dc:subject>
+<dc:subject>Supernatural</dc:subject>
+<dc:subject>Historians</dc:subject>
+<dc:subject>Villages</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=512745</dc:identifier>
+<dc:identifier>URN:ISBN:000719482X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:512751</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_SF</setSpec>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Constable along the trail /</dc:title>
+<dc:creator>Rhea, Nicholas,1936-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Robert Hale,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Aidensfield (England : Imaginary place)</dc:subject>
+<dc:subject>Police.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=512751</dc:identifier>
+<dc:identifier>URN:ISBN:0709077556</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:513467</identifier>
+			<datestamp>2011-08-15</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Hunter killer /</dc:title>
+<dc:creator>Robinson, Patrick,1940-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>New York : HarperCollins Publishers,</dc:publisher>
+<dc:date>c2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Petroleum industry and trade</dc:subject>
+<dc:subject>Inheritance and succession</dc:subject>
+<dc:subject>Princes</dc:subject>
+<dc:subject>Suspense fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=513467</dc:identifier>
+<dc:identifier>URN:ISBN:0060746890</dc:identifier>
+<dc:identifier>URN:ISBN:9780060746896</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:513751</identifier>
+			<datestamp>2011-06-29</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Friends, lovers, chocolate /</dc:title>
+<dc:creator>McCall Smith, Alexander,1948-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Little, Brown,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Women editors</dc:subject>
+<dc:subject>Heart</dc:subject>
+<dc:subject>Italians</dc:subject>
+<dc:subject>Delicatessens</dc:subject>
+<dc:subject>Housekeepers</dc:subject>
+<dc:subject>Nieces</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=513751</dc:identifier>
+<dc:identifier>URN:ISBN:0316729779</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:514433</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Henry's women /</dc:title>
+<dc:creator>Oldfield, Pamela, 1934-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sutton, Surrey : Severn House,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Romance.</dc:description>
+<dc:description>Romance.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=514433</dc:identifier>
+<dc:identifier>URN:ISBN:0727862510</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:514435</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The mysterious flame of Queen Loana : an illustrated novel /</dc:title>
+<dc:creator>Eco, Umberto,1932-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Secker &amp; Warburg,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Includes bibliographical references : p. [450]-458.</dc:description>
+<dc:subject>Belonging.</dc:subject>
+<dc:subject>Family saga.</dc:subject>
+<dc:subject>Memory</dc:subject>
+<dc:subject>Amnesia</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=514435</dc:identifier>
+<dc:identifier>URN:ISBN:0436205637</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:514438</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The sleeper /</dc:title>
+<dc:creator>Egleton, Clive,1927-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sutton, Surrey : Severn House,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Espionage.</dc:description>
+<dc:description>Espionage.</dc:description>
+<dc:subject>Espionage, British</dc:subject>
+<dc:subject>Espionage, Russian</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=514438</dc:identifier>
+<dc:identifier>URN:ISBN:072786243X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:514440</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The legacy /</dc:title>
+<dc:creator>Turnbull, Peter, 1950-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London, Allison &amp; Busby</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Detective and mystery stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=514440</dc:identifier>
+<dc:identifier>URN:ISBN:0749083131</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:514469</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>A sunny disappearance /</dc:title>
+<dc:creator>Jeffries, Roderic,1926-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sutton, Surrey : Severn House,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Rook, Maurice (fictitious character) Fiction.</dc:subject>
+<dc:subject>Alvarez, Enrique (Fictitious character)</dc:subject>
+<dc:subject>Police</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=514469</dc:identifier>
+<dc:identifier>URN:ISBN:0727861956</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:514478</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_SF</setSpec>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Miracle /</dc:title>
+<dc:creator>Steel, Danielle, 1948-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Bantam,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Dwellings</dc:subject>
+<dc:subject>Loss (Psychology)</dc:subject>
+<dc:subject>Neighborhood</dc:subject>
+<dc:subject>Friendship</dc:subject>
+<dc:subject>Carpenters</dc:subject>
+<dc:subject>Widowers</dc:subject>
+<dc:subject>Storms</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=514478</dc:identifier>
+<dc:identifier>URN:ISBN:0593050142</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:514485</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Lie by moonlight /</dc:title>
+<dc:creator>Quick, Amanda.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Piatkus,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Romantic suspense.</dc:description>
+<dc:description>Romantic suspense.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=514485</dc:identifier>
+<dc:identifier>URN:ISBN:074993591X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:514490</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Devil's corner /</dc:title>
+<dc:creator>Scottoline, Lisa.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Macmillan,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Public prosecutors</dc:subject>
+<dc:subject>Women lawyers</dc:subject>
+<dc:subject>Conspiracies</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:subject>Legal stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=514490</dc:identifier>
+<dc:identifier>URN:ISBN:140505056X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:514989</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Evanly choirs /</dc:title>
+<dc:creator>Bowen, Rhys.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sutton, Surrey : Severn House,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Choirs (Music)</dc:subject>
+<dc:subject>Police</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=514989</dc:identifier>
+<dc:identifier>URN:ISBN:0727862766</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:515223</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_SF</setSpec>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Sergeant Simpson's sacrifice /</dc:title>
+<dc:creator>Rhea, Nicholas, 1936-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Robert Hale,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=515223</dc:identifier>
+<dc:identifier>URN:ISBN:0709078293</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:515227</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The mysteries of Osiris : The tree of life /</dc:title>
+<dc:creator>Jacq, Christian,1947-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Simon &amp; Schuster,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=515227</dc:identifier>
+<dc:identifier>URN:ISBN:0743259572</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:515260</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Cross bones /</dc:title>
+<dc:creator>Reichs, Kathy.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : William Heinemann,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Bible</dc:subject>
+<dc:subject>Brennan, Temperance (Fictitious character)</dc:subject>
+<dc:subject>Women forensic anthropologists</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=515260</dc:identifier>
+<dc:identifier>URN:ISBN:0434010413</dc:identifier>
+<dc:identifier>URN:ISBN:0434010405</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:515414</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Gone with the Windsors /</dc:title>
+<dc:creator>Graham, Laurie,1947-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Fourth Estate,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Windsor, Edward, Duke of, 1894-1972</dc:subject>
+<dc:subject>Windsor, Wallis Warfield, Duchess of, 1896-1986</dc:subject>
+<dc:subject>Nobility</dc:subject>
+<dc:subject>Marriages of royalty and nobility</dc:subject>
+<dc:subject>Diaries</dc:subject>
+<dc:subject>Diaries</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=515414</dc:identifier>
+<dc:identifier>URN:ISBN:0007146752</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:515524</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_SF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Long Spoon Lane /</dc:title>
+<dc:creator>Perry, Anne.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Headline,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Pitt, Thomas (Fictitious character)</dc:subject>
+<dc:subject>Police</dc:subject>
+<dc:subject>Anarchists</dc:subject>
+<dc:subject>Historical fiction.</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=515524</dc:identifier>
+<dc:identifier>URN:ISBN:0755320565</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:515773</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The house in Amalfi /</dc:title>
+<dc:creator>Adler, Elizabeth(Elizabeth A.)</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>New York : St. Martin's Press,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=515773</dc:identifier>
+<dc:identifier>URN:ISBN:0312339631</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:515920</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Hole in one /</dc:title>
+<dc:creator>Aird, Catherine, 1930-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>New York : St. Martin's Minotaur,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Sloan, C. D. (Fictitious character)</dc:subject>
+<dc:subject>Golfers</dc:subject>
+<dc:subject>Police</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=515920</dc:identifier>
+<dc:identifier>URN:ISBN:0312342292</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:516028</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The first 48 /</dc:title>
+<dc:creator>Green, Tim,1963-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>New York : Warner Books,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Investigative reporting</dc:subject>
+<dc:subject>Fathers and daughters</dc:subject>
+<dc:subject>Kidnapping victims</dc:subject>
+<dc:subject>Women journalists</dc:subject>
+<dc:subject>Missing persons</dc:subject>
+<dc:subject>Legislators</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=516028</dc:identifier>
+<dc:identifier>URN:ISBN:0446531448</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:516087</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Twice burned /</dc:title>
+<dc:creator>Coffey, Jan.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Ontario : Mira,</dc:publisher>
+<dc:date>c2002.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=516087</dc:identifier>
+<dc:identifier>URN:ISBN:0739426664</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:516329</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Holly /</dc:title>
+<dc:creator>Deveraux, Jude.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>New York : Atria Books,</dc:publisher>
+<dc:date>2003.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Plantations</dc:subject>
+<dc:subject>Love stories.</dc:subject>
+<dc:identifier>http://www.loc.gov/catdir/bios/simon053/2004273841.html</dc:identifier>
+<dc:identifier>http://www.loc.gov/catdir/description/simon052/2004273841.html</dc:identifier>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=516329</dc:identifier>
+<dc:identifier>URN:ISBN:0743478967</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:516379</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Mr. Golightly's holiday /</dc:title>
+<dc:creator>Vickers, Salley.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>New York : Farrar, Straus and Giroux,</dc:publisher>
+<dc:date>2004.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Fiction</dc:subject>
+<dc:subject>Middle aged men</dc:subject>
+<dc:subject>Novelists</dc:subject>
+<dc:subject>Vacations</dc:subject>
+<dc:subject>Villages</dc:subject>
+<dc:identifier>http://www.loc.gov/catdir/description/hol041/2003054701.html</dc:identifier>
+<dc:identifier>http://www.loc.gov/catdir/bios/hol053/2003054701.html</dc:identifier>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=516379</dc:identifier>
+<dc:identifier>URN:ISBN:0374214891</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:516404</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The collaborators /</dc:title>
+<dc:creator>Hill, Reginald,1936-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Fiction in English,. 1945- - Texts (BNB/PRECIS)</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=516404</dc:identifier>
+<dc:identifier>URN:ISBN:0007212054</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:517204</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Looking for Peyton Place /</dc:title>
+<dc:creator>Delinsky, Barbara.1945-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Simon &amp; Schuster,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Women novelists</dc:subject>
+<dc:subject>City and town life</dc:subject>
+<dc:subject>Secrecy</dc:subject>
+<dc:subject>Love stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=517204</dc:identifier>
+<dc:identifier>URN:ISBN:0743281497</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:517291</identifier>
+			<datestamp>2006-08-09</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The journal of Fletcher Christian : together with the history of Henry Corkill /</dc:title>
+<dc:creator>Corris, Peter,1942-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Milsons Point, N.S.W. : Vintage,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Includes bibliographical references.</dc:description>
+<dc:subject>Christian, Fletcher, 1764-1793</dc:subject>
+<dc:subject>Sailors</dc:subject>
+<dc:subject>Bounty Mutiny, 1789</dc:subject>
+<dc:subject>Westfield Literary Prize Nominations (2006)</dc:subject>
+<dc:subject>Historical fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=517291</dc:identifier>
+<dc:identifier>URN:ISBN:1740513517</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:517874</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>col_AF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>A lucky break /</dc:title>
+<dc:creator>Page, Lynda.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Headline,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Historical fiction.</dc:subject>
+<dc:subject>Sagas.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=517874</dc:identifier>
+<dc:identifier>URN:ISBN:0755308824</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:518530</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Thirty-three teeth /</dc:title>
+<dc:creator>Cotterill, Colin.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>New York : Soho Press,</dc:publisher>
+<dc:date>c2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Older people</dc:subject>
+<dc:subject>Physicians</dc:subject>
+<dc:subject>Coroners</dc:subject>
+<dc:subject>Historical fiction.</dc:subject>
+<dc:subject>Mystery fiction.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=518530</dc:identifier>
+<dc:identifier>URN:ISBN:1569473889</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:518549</identifier>
+			<datestamp>2021-11-10</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The baker's apprentice /</dc:title>
+<dc:creator>Hendricks, Judi.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Orion Books,</dc:publisher>
+<dc:date>2005.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Bakers and bakeries</dc:subject>
+<dc:subject>Self-discovery</dc:subject>
+<dc:subject>Marriage</dc:subject>
+<dc:subject>Landlords</dc:subject>
+<dc:subject>Man-woman relationships.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=518549</dc:identifier>
+<dc:identifier>URN:ISBN:0752869205</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<resumptionToken completeListSize='12130' cursor='401' expirationDate='2021-11-15T00:00:00Z'>501at392833266283162</resumptionToken>
+
+</ListRecords>
+</OAI-PMH>

@@ -1,0 +1,2960 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OAI-PMH xmlns='http://www.openarchives.org/OAI/2.0/'
+	xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+	xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/
+	http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd'>
+<responseDate>ResponseDateValue</responseDate>
+<request verb='ListRecords' metadataPrefix='oai_dc' >https://library.waverley.nsw.gov.au/libero/OAIPMH.cls</request>
+<ListRecords>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:4</identifier>
+			<datestamp>2008-11-28</datestamp>
+			<setSpec>col_SYAPB</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Trust me! /</dc:title>
+<dc:creator>Collins, Paul,1954-editor.</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>SHORT STORIES, AUSTRALIAN.</dc:type>
+<dc:publisher>Ormond, Vic. : Ford St Publishing,</dc:publisher>
+<dc:date>2008.</dc:date>
+<dc:language/>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=4</dc:identifier>
+<dc:identifier>URN:ISBN:9781876462574</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:15</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Australian national bibliography.</dc:title>
+<dc:type>text</dc:type>
+<dc:publisher>Canb., Nat. Lib. of Aust., 1961-</dc:publisher>
+<dc:language>eng</dc:language>
+<dc:description>Annual                                            Issued in 2 vols. from 1993.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=15</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:21</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SR</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Keesing's record of world events.</dc:title>
+<dc:type>text</dc:type>
+<dc:publisher>Lond., Longman, vol. 1(1931-1934) -</dc:publisher>
+<dc:language>eng</dc:language>
+<dc:description>Prior to 1976 entitled: Keesing's contemporary archives: weekly diary of important world events with index continually kept up-to-date                Monthly.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=21</dc:identifier>
+<dc:identifier>URN:ISBN:000952195X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:36</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Wowie the river monster and other Australian stories /</dc:title>
+<dc:creator>Adams, L.(Lee)</dc:creator>
+<dc:creator>Adams, G.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1984.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=36</dc:identifier>
+<dc:identifier>URN:ISBN:0001012509</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:37</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Old man fire and other Australian stories /</dc:title>
+<dc:creator>Adams, L.(Lee)</dc:creator>
+<dc:creator>Adams, G.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1984.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=37</dc:identifier>
+<dc:identifier>URN:ISBN:0001012525</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:43</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_R</setSpec>
+			<setSpec>gmd_SERIAL</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Directory of Australian associations. [serial]</dc:title>
+<dc:type>text</dc:type>
+<dc:publisher>Melbourne, Information Australia.</dc:publisher>
+<dc:language>eng</dc:language>
+<dc:description>Originally published biannually Published as a loose-leaf update service 1985-1990Published quarterly 1991- Previous edition to Branch.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=43</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:44</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Raggedy Ann stories /</dc:title>
+<dc:creator>Gruelle, Johnny,1880?-1938.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>[1975]</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>In this series of adventures, Raggedy Ann goes for a ride on a kite and survives a washing.</dc:description>
+<dc:description>Originally published: Joliet, Ill. : P.F. Volland Co., 1918.</dc:description>
+<dc:description>In this series of adventures, Raggedy Ann goes for a ride on a kite and survives a washing.</dc:description>
+<dc:subject>Dolls</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=44</dc:identifier>
+<dc:identifier>URN:ISBN:0001204416</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:45</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>My very own fairy stories /</dc:title>
+<dc:creator>Gruelle, Johnny,1880?-1938.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>[1975]</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>First published: Joliet, Ill. : P.F. Volland, 1917.</dc:description>
+<dc:description>Title on cover: Raggedy Ann and Raggedy Andy's very own fairy stories.</dc:description>
+<dc:subject>Fairy tales.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=45</dc:identifier>
+<dc:identifier>URN:ISBN:0001204424</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:46</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>A place to play /</dc:title>
+<dc:creator>Ahlberg, Janet.</dc:creator>
+<dc:creator>Ahlberg, Allan.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>c1975</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Children's stories in English,. 1945- - Texts (BNB/PRECIS)</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=46</dc:identifier>
+<dc:identifier>URN:ISBN:000138015X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:49</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Richard Scarry's best counting book ever.</dc:title>
+<dc:creator>Scarry, Richard, 1919-1994.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Glasgow : Collins,</dc:publisher>
+<dc:date>1977.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Numeration. Juvenile literature (BNB/PRECIS)</dc:description>
+<dc:description>Col. ill., text on lining papers.</dc:description>
+<dc:description>Originally published: New York : Random House, 1976.</dc:description>
+<dc:subject>Numeration</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=49</dc:identifier>
+<dc:identifier>URN:ISBN:0001382209</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:52</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Paddington goes shopping /</dc:title>
+<dc:creator>Bond, Michael, 1926-</dc:creator>
+<dc:creator>Banbery, Fred,illustrator.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Lond., Collins [1973, reprinted 1975]</dc:publisher>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=52</dc:identifier>
+<dc:identifier>URN:ISBN:0001482114</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:54</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Road traffic accidents in New South Wales: statistical statement.</dc:title>
+<dc:creator>Roads and Traffic Authority of NSW.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Rosebery, N.S.W., The Authority, 1987 -</dc:publisher>
+<dc:language>eng</dc:language>
+<dc:description>In pocket at rear: Corrigenda and fold-out map entitled Main road maps of New South Wales.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=54</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:55</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Stopping the rot : a handbook of preventive conservation for local studies collections /</dc:title>
+<dc:creator>Price, Helen,1937-</dc:creator>
+<dc:creator>Library Association of Australia.New South Wales Branch.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sydney : Library Association of Australia, New South Wales Branch,</dc:publisher>
+<dc:date>1988.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Includes index.</dc:description>
+<dc:description>Bibliography: p. 45-46.</dc:description>
+<dc:subject>Library materials</dc:subject>
+<dc:subject>Libraries</dc:subject>
+<dc:subject>Library technical services.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=55</dc:identifier>
+<dc:identifier>URN:ISBN:0868040673 :</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:57</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Proceedings of the annual conference.</dc:title>
+<dc:creator>Australian Local Government Association.</dc:creator>
+<dc:creator>Australian Council of Local Government Associations.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>[S.l., Australian Local Government Association], 1985-</dc:publisher>
+<dc:language>eng</dc:language>
+<dc:description>Assoc. previously: Australian Council of Local Government Associations 1985 conference 11-13 November, 1985 Hobart       1987 conference 9-11 November, 1987 Melbourne 1991 conference 12-14 November, 1991 Hobart.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=57</dc:identifier>
+<dc:identifier>URN:ISBN:0001583727</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:58</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>gmd_MIC</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Film catalogue [microform].</dc:title>
+<dc:creator>National Film Lending Collection (Australia)</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Canb., National Library of Aust., 1980-</dc:publisher>
+<dc:language>eng</dc:language>
+<dc:description>Irregular                                         Title from head of microfiche Cover title: National Film Lending Collection catalogue.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=58</dc:identifier>
+<dc:identifier>URN:ISBN:0001586017</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:61</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Alfred Hitchcock and the Three Investigators in the mystery of the nervous lion /</dc:title>
+<dc:creator>West, Nick.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1974.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Previous ed.: New York : Random House, 1971; London : Collins, 1972.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=61</dc:identifier>
+<dc:identifier>URN:ISBN:0001600168</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:62</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The clue in the old album /</dc:title>
+<dc:creator>Keene, Carolyn.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1974.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Children's stories in English, 1900-. Texts (BNB/PRECIS)</dc:description>
+<dc:description>Originally published: New York : Grosset and Dunlap, 1947; Great Missenden : Low, Marston, 1965.</dc:description>
+<dc:subject>Children's stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=62</dc:identifier>
+<dc:identifier>URN:ISBN:0001604341</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:63</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The secret of Mirror Bay /</dc:title>
+<dc:creator>Keene, Carolyn.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1979.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Children's stories in English, 1900-. Texts (BNB/PRECIS)</dc:description>
+<dc:description>Originally published: New York : Grosset and Dunlap, 1972.</dc:description>
+<dc:subject>Children's stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=63</dc:identifier>
+<dc:identifier>URN:ISBN:0001604430</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:64</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Jennings as usual /</dc:title>
+<dc:creator>Buckeridge, Anthony.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1973.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Previous ed. 1959.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=64</dc:identifier>
+<dc:identifier>URN:ISBN:0001621343</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:65</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Jennings abounding /</dc:title>
+<dc:creator>Buckeridge, Anthony.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1972.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Previous ed. 1967.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=65</dc:identifier>
+<dc:identifier>URN:ISBN:0001621351</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:66</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Jennings in particular /</dc:title>
+<dc:creator>Buckeridge, Anthony.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1972.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Previous ed. 1968.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=66</dc:identifier>
+<dc:identifier>URN:ISBN:000162136X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:67</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Leave it to Jennings /</dc:title>
+<dc:creator>Buckeridge, Anthony.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1972.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Children's stories in English, 1900-. Texts (BNB/PRECIS)</dc:description>
+<dc:description>Previous ed. 1963.</dc:description>
+<dc:subject>Children's stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=67</dc:identifier>
+<dc:identifier>URN:ISBN:0001621378</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:68</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Jennings, of course! /</dc:title>
+<dc:creator>Buckeridge, Anthony.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1973.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Children's stories in English, 1900-. Texts (BNB/PRECIS)</dc:description>
+<dc:description>Previous ed. 1964.</dc:description>
+<dc:subject>Children's stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=68</dc:identifier>
+<dc:identifier>URN:ISBN:0001621386</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:69</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Jennings follows a clue /</dc:title>
+<dc:creator>Buckeridge, Anthony.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1973.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Children's stories in English, 1900-. Texts (BNB/PRECIS)</dc:description>
+<dc:description>Previous ed. 1951.</dc:description>
+<dc:subject>Children's stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=69</dc:identifier>
+<dc:identifier>URN:ISBN:0001621416</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:70</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Jennings' little hut /</dc:title>
+<dc:creator>Buckeridge, Anthony.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1973.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Previous ed. 1951.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=70</dc:identifier>
+<dc:identifier>URN:ISBN:0001621424</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:71</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Jennings and Darbishire /</dc:title>
+<dc:creator>Buckeridge, Anthony.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1973.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Previous ed. 1952.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=71</dc:identifier>
+<dc:identifier>URN:ISBN:0001621432</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:72</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Our friend Jennings /</dc:title>
+<dc:creator>Buckeridge, Anthony.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1973.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Previous ed. 1955.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=72</dc:identifier>
+<dc:identifier>URN:ISBN:0001621467</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:73</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Thanks to Jennings /</dc:title>
+<dc:creator>Buckeridge, Anthony.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1973.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Previous ed. 1957.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=73</dc:identifier>
+<dc:identifier>URN:ISBN:0001621475</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:74</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Take Jennings, for instance /</dc:title>
+<dc:creator>Buckeridge, Anthony.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1973.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Previous ed. 1958.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=74</dc:identifier>
+<dc:identifier>URN:ISBN:0001621483</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:75</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The trouble with Jennings /</dc:title>
+<dc:creator>Buckeridge, Anthony.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1973.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Previous ed. 1960.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=75</dc:identifier>
+<dc:identifier>URN:ISBN:0001621491</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:76</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Just like Jennings /</dc:title>
+<dc:creator>Buckeridge, Anthony.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1973.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Previous ed. 1961.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=76</dc:identifier>
+<dc:identifier>URN:ISBN:0001621505</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:77</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Trust Jennings! /</dc:title>
+<dc:creator>Buckeridge, Anthony.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1973.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Previous ed. 1969.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=77</dc:identifier>
+<dc:identifier>URN:ISBN:0001621513</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:78</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Typically Jennings! /</dc:title>
+<dc:creator>Buckeridge, Anthony.</dc:creator>
+<dc:creator>Biro.</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>SCHOOL</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1971.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Children's stories in English, 1900-. Texts (BNB/PRECIS)</dc:description>
+<dc:subject>Children's stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=78</dc:identifier>
+<dc:identifier>URN:ISBN:0001621610</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:81</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>C is for clown : a circus of "C" words /</dc:title>
+<dc:creator>Berenstain, Stan,1923-</dc:creator>
+<dc:creator>Berenstain, Janice,1923-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Glasgow : Collins,</dc:publisher>
+<dc:date>1985, c1972.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Children's stories in English. American writers,. 1945- - Texts (BNB/PRECIS)</dc:description>
+<dc:description>Originally published: New York : Random House, 1972.</dc:description>
+<dc:subject>Readers.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=81</dc:identifier>
+<dc:identifier>URN:ISBN:0001700243</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:84</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The Cat in the Hat /</dc:title>
+<dc:creator>Seuss,Dr.,1904-1991.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1958, c1957.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>On a rainy day two bored children are depressed until the Cat in the Hat appears and wreaks havoc, and there is a scramble to clean up the mess before their mother returns.</dc:description>
+<dc:description>On a rainy day two bored children are depressed until the Cat in the Hat appears and wreaks havoc, and there is a scramble to clean up the mess before their mother returns.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=84</dc:identifier>
+<dc:identifier>URN:ISBN:0001711016</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:86</identifier>
+			<datestamp>2013-08-14</datestamp>
+			<setSpec>col_JF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>A fly went by /</dc:title>
+<dc:creator>McClintock, Mike.1906-</dc:creator>
+<dc:creator>Siebel, Fritz,illustrator.</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>STORIES IN RHYME</dc:type>
+<dc:type>FLIES</dc:type>
+<dc:publisher>New York : Collins,</dc:publisher>
+<dc:date>1961.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>A sheep with its foot caught in a tin can sets off a chase with a fly in the lead.</dc:description>
+<dc:description>A sheep with its foot caught in a tin can sets off a chase with a fly in the lead.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=86</dc:identifier>
+<dc:identifier>URN:ISBN:0001711032</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:88</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Bennett Cerf's book of riddles /</dc:title>
+<dc:creator>Cerf, Bennett,1898-1971.</dc:creator>
+<dc:creator>McKie, Roy,illustrator.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1962.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=88</dc:identifier>
+<dc:identifier>URN:ISBN:0001711105</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:92</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The big honey hunt /</dc:title>
+<dc:creator>Berenstain, Stan,1923-</dc:creator>
+<dc:creator>Berenstain, Janice,1923-</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>BEARS</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1966, c1962.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Readers (Primary)</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=92</dc:identifier>
+<dc:identifier>URN:ISBN:0001711253</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:93</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The bike lesson /</dc:title>
+<dc:creator>Berenstain, Stan,1923-</dc:creator>
+<dc:creator>Berenstain, Janice,1923-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>[Glasgow] : Collins,</dc:publisher>
+<dc:date>1967.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>First published: New York : Random House, 1964.</dc:description>
+<dc:description>For children.</dc:description>
+<dc:subject>Stories in rhyme.</dc:subject>
+<dc:subject>Bears</dc:subject>
+<dc:subject>Bicycles</dc:subject>
+<dc:subject>Cycling</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=93</dc:identifier>
+<dc:identifier>URN:ISBN:0001711288</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:94</identifier>
+			<datestamp>2014-03-17</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Come over to my house /</dc:title>
+<dc:creator>Le Sieg, Theo.</dc:creator>
+<dc:creator>Erdoes, Richard,illustrator.</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>HOUSES</dc:type>
+<dc:publisher>[Lond.] Collins [1967]</dc:publisher>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=94</dc:identifier>
+<dc:identifier>URN:ISBN:0001711296</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:95</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Babar loses his crown /</dc:title>
+<dc:creator>Brunhoff, Laurent de,1925-</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>ELEPHANTS</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1968, c1967.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>The red suitcase in which Babar has his crown is exchanged for one with a flute, and since he can't wear a flute, he and his family chase wildly across Paris after the man they think has the crown.</dc:description>
+<dc:description>Originally published: New York : Random House, 1967.</dc:description>
+<dc:description>The red suitcase in which Babar has his crown is exchanged for one with a flute, and since he can't wear a flute, he and his family chase wildly across Paris after the man they think has the crown.</dc:description>
+<dc:subject>Musical instruments</dc:subject>
+<dc:subject>Elephants</dc:subject>
+<dc:subject>Readers (Primary)</dc:subject>
+<dc:subject>Readers (Primary)</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=95</dc:identifier>
+<dc:identifier>URN:ISBN:0001711318</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:96</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The bear scouts /</dc:title>
+<dc:creator>Berenstain, Stan,1923-</dc:creator>
+<dc:creator>Berenstain, Janice,1923-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1968.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=96</dc:identifier>
+<dc:identifier>URN:ISBN:0001711326</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:97</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_E</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The bears' holiday /</dc:title>
+<dc:creator>Berenstain, Stan,1923-</dc:creator>
+<dc:creator>Berenstain, Janice,1923-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Glasgow : Collins,</dc:publisher>
+<dc:date>1969.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Father Bear teaches his son about water safety while they're on holiday at the beach.</dc:description>
+<dc:description>First published as: The bears vacation. New York : Beginner Books, 1968.</dc:description>
+<dc:description>Father Bear teaches his son about water safety while they're on holiday at the beach.</dc:description>
+<dc:subject>Holidays</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=97</dc:identifier>
+<dc:identifier>URN:ISBN:0001711369</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:99</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>More riddles /</dc:title>
+<dc:creator>Cerf, Bennett,1898-1971.</dc:creator>
+<dc:creator>McKie, Roy.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1971, c1961.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Riddles, Juvenile.</dc:subject>
+<dc:subject>Wit and humor, Juvenile.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=99</dc:identifier>
+<dc:identifier>URN:ISBN:0001711407</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:100</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The bears' picnic /</dc:title>
+<dc:creator>Berenstain, Stan,1923-</dc:creator>
+<dc:creator>Berenstain, Janice,1923-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>[London] : Collins,</dc:publisher>
+<dc:date>1973.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>In searching for a nice spot to have a picnic, Papa Bear leads his family from one natural disaster area to another.</dc:description>
+<dc:description>In searching for a nice spot to have a picnic, Papa Bear leads his family from one natural disaster area to another.</dc:description>
+<dc:subject>Stories in rhyme.</dc:subject>
+<dc:subject>Bears</dc:subject>
+<dc:subject>Picnicking</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=100</dc:identifier>
+<dc:identifier>URN:ISBN:0001711431</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:103</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The ear book /</dc:title>
+<dc:creator>Perkins, Al.</dc:creator>
+<dc:creator>O'Brian, William.</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>HEARING</dc:type>
+<dc:publisher>[London] : Collins,</dc:publisher>
+<dc:date>1969, c1968.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Originally published: New York : Random House, 1969.</dc:description>
+<dc:description>For younger pre-school children.</dc:description>
+<dc:subject>Readers (Primary)</dc:subject>
+<dc:subject>Ear</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=103</dc:identifier>
+<dc:identifier>URN:ISBN:0001712039</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:104</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Inside outside upside down /</dc:title>
+<dc:creator>Berenstain, Stan,1923-</dc:creator>
+<dc:creator>Berenstain, Janice,1923-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins and Harvill,</dc:publisher>
+<dc:date>1969, c1968.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>For children.</dc:description>
+<dc:subject>Children's stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=104</dc:identifier>
+<dc:identifier>URN:ISBN:0001712047</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:105</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Bears on wheels /</dc:title>
+<dc:creator>Berenstain, Stan,1923-</dc:creator>
+<dc:creator>Berenstain, Janice,1923-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Glasgow : Collins,</dc:publisher>
+<dc:date>1970.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>An acrobatic act begins with one bear on a unicycle and ends with twenty-one bears and sixteen wheels flying through the air.</dc:description>
+<dc:description>An acrobatic act begins with one bear on a unicycle and ends with twenty-one bears and sixteen wheels flying through the air.</dc:description>
+<dc:subject>Bears</dc:subject>
+<dc:subject>Counting.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=105</dc:identifier>
+<dc:identifier>URN:ISBN:0001712063</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:106</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The Berenstains' B book /</dc:title>
+<dc:creator>Berenstain, Stan,1923-</dc:creator>
+<dc:creator>Berenstain, Janice,1923-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins : Harvill,</dc:publisher>
+<dc:date>1972.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>English language. Reading books. Primary school texts (BNB/PRECIS)</dc:description>
+<dc:description>Spine title 'The B book'</dc:description>
+<dc:description>Originally published, New York: Random House, 1971.</dc:description>
+<dc:subject>Readers.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=106</dc:identifier>
+<dc:identifier>URN:ISBN:000171211X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:107</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The Berenstain bears visit the dentist /</dc:title>
+<dc:creator>Berenstain, Stan,1923-</dc:creator>
+<dc:creator>Berenstain, Janice,1923-</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>DENTISTS</dc:type>
+<dc:publisher>Glasgow : Collins,</dc:publisher>
+<dc:date>1987, c1981.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Children's stories in English. American writers,. 1945- - Texts (BNB/PRECIS)</dc:description>
+<dc:description>Originally published: New York : Random House, 1981.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=107</dc:identifier>
+<dc:identifier>URN:ISBN:0001712365</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:113</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Mary Poppins in Cherry Tree Lane /</dc:title>
+<dc:creator>Travers, P. L. 1899-1996.(Pamela Lyndon), </dc:creator>
+<dc:creator>Shepard, Mary,1909-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1982.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>For children.</dc:description>
+<dc:description>Children's stories in English,. 1900-1945 - Texts (BNB/PRECIS)</dc:description>
+<dc:subject>Magic</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=113</dc:identifier>
+<dc:identifier>URN:ISBN:0001811126</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:116</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_E</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Paddington's magical Christmas /</dc:title>
+<dc:creator>Bond, Michael, 1926-</dc:creator>
+<dc:creator>McKee, David,1935-</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>CHRISTMAS</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1988.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Children's stories in English,. 1945- - Texts (BNB/PRECIS)</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=116</dc:identifier>
+<dc:identifier>URN:ISBN:0001811800</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:117</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Paddington and the marmalade maze /</dc:title>
+<dc:creator>Bond, Michael, 1926-</dc:creator>
+<dc:creator>McKee, David,1935-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1987.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Children's stories in English,. 1945- - Texts (BNB/PRECIS)</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=117</dc:identifier>
+<dc:identifier>URN:ISBN:0001811819</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:118</identifier>
+			<datestamp>2013-07-24</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>A bear called Paddington /</dc:title>
+<dc:creator>Bond, Michael,1926-</dc:creator>
+<dc:creator>Fortnum, Peggy.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1958.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Bears</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=118</dc:identifier>
+<dc:identifier>URN:ISBN:0001821016</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:119</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Paddington helps out.</dc:title>
+<dc:creator>Bond, Michael, 1926-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Lond., Collins [1974]</dc:publisher>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=119</dc:identifier>
+<dc:identifier>URN:ISBN:0001821032</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:120</identifier>
+			<datestamp>2013-08-20</datestamp>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Paddington at large /</dc:title>
+<dc:creator>Bond, Michael,1926-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1962.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=120</dc:identifier>
+<dc:identifier>URN:ISBN:0001821059</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:121</identifier>
+			<datestamp>2013-06-27</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Paddington at work.</dc:title>
+<dc:creator>Bond, Michael,1926-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Lond., Collins [1966, reprinted 1977]</dc:publisher>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=121</dc:identifier>
+<dc:identifier>URN:ISBN:0001821075</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:122</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Paddington goes to town /</dc:title>
+<dc:creator>Bond, Michael, 1926-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1971.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=122</dc:identifier>
+<dc:identifier>URN:ISBN:0001821083</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:123</identifier>
+			<datestamp>2013-07-15</datestamp>
+			<setSpec>col_JF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Paddington takes the air.</dc:title>
+<dc:creator>Bond, Michael,1926-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Lond., Collins [1970,</dc:publisher>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=123</dc:identifier>
+<dc:identifier>URN:ISBN:0001821113</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:124</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Paddington at the tower /</dc:title>
+<dc:creator>Bond, Michael, 1926-</dc:creator>
+<dc:creator>Banbery, Fred.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1975.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=124</dc:identifier>
+<dc:identifier>URN:ISBN:0001821326</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:127</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Paddington's storybook /</dc:title>
+<dc:creator>Bond, Michael, 1926-</dc:creator>
+<dc:creator>Fortnum, Peggy,illustrator.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1983.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Presents ten previously published stories featuring the inquisitive bear with a passion for marmalade sandwiches.</dc:description>
+<dc:description>Presents ten previously published stories featuring the inquisitive bear with a passion for marmalade sandwiches.</dc:description>
+<dc:subject>Children's stories, English.</dc:subject>
+<dc:subject>Bears</dc:subject>
+<dc:subject>Short stories.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=127</dc:identifier>
+<dc:identifier>URN:ISBN:0001821741</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:128</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Paddington and the Knickerbocker rainbow /</dc:title>
+<dc:creator>Bond, Michael, 1926-</dc:creator>
+<dc:creator>McKee, David,1935-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>[London] : Collins,</dc:publisher>
+<dc:date>1984.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Despite bad weather Padddington and the Brown family have a very pleasant outing at the beach.</dc:description>
+<dc:description>Despite bad weather Padddington and the Brown family have a very pleasant outing at the beach.</dc:description>
+<dc:subject>Bears</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=128</dc:identifier>
+<dc:identifier>URN:ISBN:000182175X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:129</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Paddington at the zoo /</dc:title>
+<dc:creator>Bond, Michael, 1926-</dc:creator>
+<dc:creator>McKee, David,1935-</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>ZOOS</dc:type>
+<dc:publisher>[London] : Collins,</dc:publisher>
+<dc:date>1984.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Children's stories in English,. 1945- - Texts (BNB/PRECIS)</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=129</dc:identifier>
+<dc:identifier>URN:ISBN:0001821768</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:133</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The silver chair /</dc:title>
+<dc:creator>Lewis, C. S.(Clive Staples),1898-1963.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1987, 1997.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Originally published: London : Bles, 1953.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=133</dc:identifier>
+<dc:identifier>URN:ISBN:000183181X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:134</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJNF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The Margaret Tarrant nursery rhyme book.</dc:title>
+<dc:creator>Tarrant, Margaret W.(Margaret Winifred),1888-1959.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1985.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Nursery rhymes in English. - Anthologies (BNB/PRECIS)</dc:description>
+<dc:description>Previous ed.: 1944.</dc:description>
+<dc:subject>Nursery rhymes, English.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=134</dc:identifier>
+<dc:identifier>URN:ISBN:000183732X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:135</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Mog in the dark /</dc:title>
+<dc:creator>Kerr, Judith.</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>CATS</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>c1983.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=135</dc:identifier>
+<dc:identifier>URN:ISBN:0001837699</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:138</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Promise and the monster /</dc:title>
+<dc:creator>Cole, Babette.</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>MONSTERS</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1988, c1981.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Originally published: London : Granada, 1981.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=138</dc:identifier>
+<dc:identifier>URN:ISBN:0001840347</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:140</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SYAF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Breaking up /</dc:title>
+<dc:creator>Willmott, Frank,1948-</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>INTERPERSONAL RELATIONS</dc:type>
+<dc:type>FRIENDSHIP</dc:type>
+<dc:type>FAMILY PROBLEMS</dc:type>
+<dc:type>SCHOOL</dc:type>
+<dc:type>BROKEN HOMES</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1983.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>In his diary, fifteen-year-old Mark writes about school, friends, girls, and home in the year in which his family breaks up.</dc:description>
+<dc:description>In his diary, fifteen-year-old Mark writes about school, friends, girls, and home in the year in which his family breaks up.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=140</dc:identifier>
+<dc:identifier>URN:ISBN:0001840444</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:141</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJNF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Alan Garner's book of British fairy tales /</dc:title>
+<dc:creator>Garner, Alan,1934-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1984.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>British tales. - Anthologies (BNB/PRECIS)</dc:description>
+<dc:description>Ill. on lining papers.</dc:description>
+<dc:description>Bibliography: p. 160.</dc:description>
+<dc:subject>Tales</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=141</dc:identifier>
+<dc:identifier>URN:ISBN:0001840452</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:143</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SYAF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Andra.</dc:title>
+<dc:creator>Lawrence, Louise,1943-</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>FANTASY</dc:type>
+<dc:publisher>[Lond.] Collins [1989]</dc:publisher>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=143</dc:identifier>
+<dc:identifier>URN:ISBN:0001840843</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:144</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SYAF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Come a stranger /</dc:title>
+<dc:creator>Voigt, Cynthia.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1987, c1986.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Originally published: New York : Atheneum, 1986.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=144</dc:identifier>
+<dc:identifier>URN:ISBN:0001841262</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:145</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The caravan puppets /</dc:title>
+<dc:creator>Bond, Michael, 1926-</dc:creator>
+<dc:creator>Julian-Ottie, Vanessa,illustrator.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1983.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=145</dc:identifier>
+<dc:identifier>URN:ISBN:0001841351</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:146</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SYAF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Dicey's song /</dc:title>
+<dc:creator>Voigt, Cynthia.</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>NEWBERY MEDAL, 1983.</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1984.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Children's stories in English. American writers,. 1945- - Texts (BNB/PRECIS)</dc:description>
+<dc:description>Originally published: New York : Atheneum, 1982.</dc:description>
+<dc:description>Sequel to: Homecoming.</dc:description>
+<dc:description>For children.</dc:description>
+<dc:subject>Brothers and sisters</dc:subject>
+<dc:subject>Family</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=146</dc:identifier>
+<dc:identifier>URN:ISBN:0001841475</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:147</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_JF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Elidor /</dc:title>
+<dc:creator>Garner, Alan,1934-</dc:creator>
+<dc:creator>Keeping, Charles,1924-1988.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>London : Collins,</dc:publisher>
+<dc:date>1965.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=147</dc:identifier>
+<dc:identifier>URN:ISBN:0001842021</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:150</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The magic firesticks /</dc:title>
+<dc:creator>Trezise, Percy.</dc:creator>
+<dc:creator>Roughsey, Dick.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1983.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Australian Aboriginal tales. Texts. For children (ANB/PRECIS SIN 0636517)</dc:description>
+<dc:description>For children.</dc:description>
+<dc:subject>Aborigines, Australian</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=150</dc:identifier>
+<dc:identifier>URN:ISBN:0001843095</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:151</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Wind on your face /</dc:title>
+<dc:creator>Bell, Anne.</dc:creator>
+<dc:creator>Burness, Kate,illustrator.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1983.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Poetry, Australian</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=151</dc:identifier>
+<dc:identifier>URN:ISBN:0001843109</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:152</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The white crane /</dc:title>
+<dc:creator>Morimoto, Junko,1932-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1983.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=152</dc:identifier>
+<dc:identifier>URN:ISBN:0001843117</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:153</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Rain, hail or shine /</dc:title>
+<dc:creator>Hunt, Nan.</dc:creator>
+<dc:creator>Smith, Craig,1955-,illustrator.</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>WEATHER</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1984.</dc:date>
+<dc:language>eng</dc:language>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=153</dc:identifier>
+<dc:identifier>URN:ISBN:0001843141</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:154</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJNF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Click go the shears /</dc:title>
+<dc:creator>Ingpen, Robert,1936-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1984.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Ballads in English: Australian ballads. Words. Texts. For children (ANB/PRECIS SIN 0691984)</dc:description>
+<dc:description>For children.</dc:description>
+<dc:subject>Sheep-shearing</dc:subject>
+<dc:subject>Ballads, English</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=154</dc:identifier>
+<dc:identifier>URN:ISBN:0001843168</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:155</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_JNF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Andy's gone with cattle /</dc:title>
+<dc:creator>Lawson, Henry,1867-1922.</dc:creator>
+<dc:creator>King, J. A.(John Anthony),1949-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1984.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Ballads in English: Australian ballads. Words. Texts. For children (ANB/PRECIS SIN 0691984)</dc:description>
+<dc:description>For children.</dc:description>
+<dc:subject>Ballads, English</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=155</dc:identifier>
+<dc:identifier>URN:ISBN:0001843176</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:156</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Ned, a leg end : a thoroughly misleading account of his life and times /</dc:title>
+<dc:creator>Ferrier, Susanne.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1984.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Children's stories in English. Australian writers, 1945-. Special subjects: Kelly, Ned, 1855-1880. Texts (ANB/PRECIS SIN 0719722)</dc:description>
+<dc:description>Col. ill. on lining papers.</dc:description>
+<dc:description>For children.</dc:description>
+<dc:subject>Kelly, Ned, 1855-1880</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=156</dc:identifier>
+<dc:identifier>URN:ISBN:0001843192</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:157</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJNF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Farewell to old England forever : traditional /</dc:title>
+<dc:creator>King, J. A.(John Anthony),1949-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1984.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>For children.</dc:description>
+<dc:subject>Songs, English</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=157</dc:identifier>
+<dc:identifier>URN:ISBN:0001843206</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:158</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Gidja /</dc:title>
+<dc:creator>Trezise, Percy.</dc:creator>
+<dc:creator>Roughsey, Dick.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1984.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>For children.</dc:description>
+<dc:subject>Aborigines, Australian</dc:subject>
+<dc:subject>Aborigines, Australian</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=158</dc:identifier>
+<dc:identifier>URN:ISBN:0001843214</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:159</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The Inch boy /</dc:title>
+<dc:creator>Morimoto, Junko,1932-</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>SAMURAI</dc:type>
+<dc:type>COURAGE</dc:type>
+<dc:type>BEING SMALL</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1984.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Tales</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=159</dc:identifier>
+<dc:identifier>URN:ISBN:0001843222</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:161</identifier>
+			<datestamp>2015-03-23</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Mother monster! /</dc:title>
+<dc:creator>McKeever, Jan.</dc:creator>
+<dc:creator>King, J. A.(John Anthony),1949-</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>MONSTERS</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1986.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>For children.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=161</dc:identifier>
+<dc:identifier>URN:ISBN:0001843249</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:162</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Don't get burnt!, or, The great Australian day at the beach /</dc:title>
+<dc:creator>Bedson, Jack.</dc:creator>
+<dc:creator>Gouldthorpe, Peter,illustrator.</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>BEACH</dc:type>
+<dc:type>SUNBURN</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1985.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>When the children spend the day at the beach, Jack avoids putting on any skin protection or a hat and becomes very sunburnt.</dc:description>
+<dc:description>When the children spend the day at the beach, Jack avoids putting on any skin protection or a hat and becomes very sunburnt.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=162</dc:identifier>
+<dc:identifier>URN:ISBN:0001843257 :</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:163</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJNF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The Wild colonial boy /</dc:title>
+<dc:creator>King, J. A.(John Anthony),1949-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1985.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Col. ill. on lining papers.</dc:description>
+<dc:description>For children.</dc:description>
+<dc:subject>Folk songs, English</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=163</dc:identifier>
+<dc:identifier>URN:ISBN:0001843265</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:164</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>A piece of straw /</dc:title>
+<dc:creator>Morimoto, Junko,1932-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1985.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Folklore</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=164</dc:identifier>
+<dc:identifier>URN:ISBN:000184329X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:165</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Daydream journey /</dc:title>
+<dc:creator>Turner, Gwenda,1947-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1982.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Children's stories in English. Australian writers, 1945-. Texts (ANB/PRECIS SIN 037024x)</dc:description>
+<dc:description>For children.</dc:description>
+<dc:subject>Grandmothers</dc:subject>
+<dc:subject>Farm life</dc:subject>
+<dc:subject>Picture books.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=165</dc:identifier>
+<dc:identifier>URN:ISBN:0001843389</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:166</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Turramulli the giant Quinkin /</dc:title>
+<dc:creator>Trezise, Percy.</dc:creator>
+<dc:creator>Roughsey, Dick.</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1982.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Australian Aboriginal myths. For children (ANB/PRECIS SIN 0414581)</dc:description>
+<dc:description>For children.</dc:description>
+<dc:subject>Aborigines, Australian</dc:subject>
+<dc:subject>Aborigines, Australian</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=166</dc:identifier>
+<dc:identifier>URN:ISBN:0001843435</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:167</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The prowler /</dc:title>
+<dc:creator>Dutton, Geoffrey,1922-1998.</dc:creator>
+<dc:creator>Smith, Craig,1955-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>c1982.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Children's stories in English. Australian writers, 1945-. Texts (ANB/PRECIS SIN 037024x)</dc:description>
+<dc:description>For children.</dc:description>
+<dc:subject>Cats</dc:subject>
+<dc:subject>Burglary</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=167</dc:identifier>
+<dc:identifier>URN:ISBN:0001843486</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:168</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The flying fox warriors /</dc:title>
+<dc:creator>Trezise, Percy.</dc:creator>
+<dc:creator>Roughsey, Dick.</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>ABORIGINES</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1985.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Aborigines, Australian</dc:subject>
+<dc:subject>Flying foxes</dc:subject>
+<dc:subject>Birds</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=168</dc:identifier>
+<dc:identifier>URN:ISBN:0001843532</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:169</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Bumble's journey /</dc:title>
+<dc:creator>Treloar, Bruce.</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>BALLOONS</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1986.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Col. ill. on lining papers.</dc:description>
+<dc:description>For children.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=169</dc:identifier>
+<dc:identifier>URN:ISBN:0001843540</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:170</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Snail mail /</dc:title>
+<dc:creator>Edwards, Hazel,1945-</dc:creator>
+<dc:creator>Clement, Rod.</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>SNAILS</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1986.</dc:date>
+<dc:language>eng</dc:language>
+<dc:subject>Snails</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=170</dc:identifier>
+<dc:identifier>URN:ISBN:0001843575</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:171</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Snowplay /</dc:title>
+<dc:creator>Turner, Gwenda,1947-</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>SNOW</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1986.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Simultaneously published: Auckland : Collins.</dc:description>
+<dc:description>For children.</dc:description>
+<dc:subject>Snow</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=171</dc:identifier>
+<dc:identifier>URN:ISBN:0001843583</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:172</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The goanna and the crane fly /</dc:title>
+<dc:creator>Hall, Rita.</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>GOANNAS</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1986.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Ill. on lining papers.</dc:description>
+<dc:description>For children.</dc:description>
+<dc:subject>Monitor lizards</dc:subject>
+<dc:subject>Crane-flies</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=172</dc:identifier>
+<dc:identifier>URN:ISBN:0001843605</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:173</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Ngalculli, the red kangaroo /</dc:title>
+<dc:creator>Trezise, Percy.</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>KANGAROOS</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1986.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>For children.</dc:description>
+<dc:subject>Aborigines, Australian</dc:subject>
+<dc:subject>Red kangaroo</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=173</dc:identifier>
+<dc:identifier>URN:ISBN:0001843613</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:174</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Kojuro and the bears /</dc:title>
+<dc:creator>Morimoto, Junko,1932-</dc:creator>
+<dc:creator>Miyazawa, Kenji,1896-1933.</dc:creator>
+<dc:type>text</dc:type>
+<dc:type>BEARS</dc:type>
+<dc:type>AUSTRALIAN PICTURE BOOK OF THE YEAR, 1987.</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1986.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Winner of the Australian Children's Book of the Year Award (B), 1987.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=174</dc:identifier>
+<dc:identifier>URN:ISBN:0001843621</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:175</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SJNF</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>The teams : poem /</dc:title>
+<dc:creator>Lawson, Henry,1867-1922.</dc:creator>
+<dc:creator>King, J. A.(John Anthony),1949-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sydney : Collins ; ([Hong Kong] : Dai Nippon Printing Co.,</dc:publisher>
+<dc:date>1986.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>For children.</dc:description>
+<dc:subject>Children's poetry, Australian.</dc:subject>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=175</dc:identifier>
+<dc:identifier>URN:ISBN:000184363X</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<record>
+		<header>
+			<identifier>oai:AuNWAV:177</identifier>
+			<datestamp>2021-11-11</datestamp>
+			<setSpec>col_SE</setSpec>
+			<setSpec>gmd_BK</setSpec>
+		</header>
+		<metadata>
+			<oai_dc:dc
+				xmlns:oai_dc='http://www.openarchives.org/OAI/2.0/oai_dc/'
+				xmlns:dc='http://purl.org/dc/elements/1.1/'
+				xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+				xsi:schemaLocation='http://www.openarchives.org/OAI/2.0/oai_dc/ 
+				http://www.openarchives.org/OAI/2.0/oai_dc.xsd'>
+
+<dc:title>Tiffany's own story /</dc:title>
+<dc:creator>Huxley, Dee,1947-</dc:creator>
+<dc:type>text</dc:type>
+<dc:publisher>Sydney : Collins,</dc:publisher>
+<dc:date>1979.</dc:date>
+<dc:language>eng</dc:language>
+<dc:description>Children's stories in English. Australian writers, 1945-. Texts (ANB/PRECIS SIN 000006x)</dc:description>
+<dc:description>For children.</dc:description>
+<dc:identifier>https://library.waverley.nsw.gov.au/libero/WebopacOpenURL.cls?ACTION=DISPLAY&amp;sid=LIBERO:DWL&amp;RSN=177</dc:identifier>
+<dc:identifier>URN:ISBN:0001843826</dc:identifier>
+
+			</oai_dc:dc>
+		</metadata>
+</record>
+<resumptionToken completeListSize='189803' cursor='1' expirationDate='2021-11-16T00:00:00Z'>101at392833266283162</resumptionToken>
+
+</ListRecords>
+</OAI-PMH>
