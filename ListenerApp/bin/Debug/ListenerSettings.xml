@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<setting>
-	<frequency oneFrom='10'/>
-	<duration from='1000' to='10000'/>
-</setting>
