@@ -1,7 +1,0 @@
-C:\Bluebirds_PROJECT\OAIPMHHarvester\Listener\ListenerApp\ListenerApp\bin\Debug\ListenerApp.exe.config
-C:\Bluebirds_PROJECT\OAIPMHHarvester\Listener\ListenerApp\ListenerApp\bin\Debug\ListenerApp.exe
-C:\Bluebirds_PROJECT\OAIPMHHarvester\Listener\ListenerApp\ListenerApp\bin\Debug\ListenerApp.pdb
-C:\Bluebirds_PROJECT\OAIPMHHarvester\Listener\ListenerApp\ListenerApp\obj\Debug\ListenerApp.csproj.CoreCompileInputs.cache
-C:\Bluebirds_PROJECT\OAIPMHHarvester\Listener\ListenerApp\ListenerApp\obj\Debug\ListenerApp.exe
-C:\Bluebirds_PROJECT\OAIPMHHarvester\Listener\ListenerApp\ListenerApp\obj\Debug\ListenerApp.pdb
-C:\Bluebirds_PROJECT\OAIPMHHarvester\Listener\ListenerApp\ListenerApp\obj\Debug\ListenerApp.csprojAssemblyReference.cache
